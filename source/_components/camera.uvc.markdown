@@ -51,7 +51,7 @@ port:
   required: false
   type: int
   default: 7080
-name:
+password:
   description: The camera password.
   required: false
   type: string
